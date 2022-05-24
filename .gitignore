@@ -133,7 +133,7 @@ ssd.pytorch/
 
 # some datasets
 data/VOCdevkit/
-data/coco/images/
+data/coco/train/images/
 data/coco/annotations/
 ap_data.pkl
 results/

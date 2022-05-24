@@ -3,7 +3,7 @@ from pathlib import Path
 import os
 
 PORT = 6337
-IMAGE_PATH = '../data/coco/images/'
+IMAGE_PATH = '../data/coco/train/images/'
 IMAGE_FMT  = '%012d.jpg'
 
 class Handler(SimpleHTTPRequestHandler):
